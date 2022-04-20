@@ -1,6 +1,6 @@
 
 ### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to web apllications.
+I am recent engineering graduate looking for opportunities and collabaration in projects related to web applications.
 - 🔭 I’m currently working on Node and React applications.
 - 🌱 I’m currently learning javascript and technologies like React, Node, Vue and ReactNative.
 - 🤝 I’m looking to collaborate on Front-end projects. 
