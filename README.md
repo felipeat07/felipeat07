@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/felipeat07/img1.gif">
+<img src="https://github.com/felipeat07/felipeat07/blob/main/img1.gif>
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to web apllications.
