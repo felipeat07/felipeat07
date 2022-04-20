@@ -1,4 +1,5 @@
-### Hi there 👋
+Olá, sou Felipe Tavares
+Graduado em Engenharia e apaixonado por tecnologias.
 
 <!--
 **felipeat07/felipeat07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
