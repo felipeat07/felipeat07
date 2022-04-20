@@ -1,8 +1,6 @@
-# Olá, sou Felipe Tavares
 
-#### Graduado em Engenharia e apaixonado por tecnologias.
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="https://github.com/felipeat07/imgs/img1.gif">
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
