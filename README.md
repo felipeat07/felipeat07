@@ -1,7 +1,4 @@
 
-
-<img src="https://github.com/felipeat07/felipeat07/blob/main/img1.gif>
-
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to web apllications.
 - 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
